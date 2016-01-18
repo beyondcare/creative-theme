@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Om
+published: true
 ---
 
-# Om Beyond Care
+
+## Om Beyond Care
 
 Mit navn er Frank Knudsen, jeg er 35 år og bor i Odense. Jeg har en stor passion for krop og sind og hvordan hele vores organisme hænger sammen fysik og mentalt. Som udgangspunkt lyver kroppens signaler aldrig, og jeg vil med mine behandlinger tage udgangspunkt i lige præcis de signaler.
 
