@@ -15,7 +15,6 @@ kramdown:
   parse_block_html: true
 
 prose:
-  rooturl: '_posts'
   siteurl: 'http://beyondcare.dk'
   media: 'media'
   ignore:
@@ -23,6 +22,7 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /_sass
   metadata:
     - name: "layout"
       field:
