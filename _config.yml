@@ -8,6 +8,7 @@ url: "" # the base hostname & protocol for your site
 
 # Other settings
 timezone: Europe/Copenhagen
+include: ["_pages"]
 
 # Build settings
 markdown: kramdown
@@ -15,7 +16,8 @@ kramdown:
   parse_block_html: true
 
 prose:
-  siteurl: 'http://beyondcare.dk'
+  rootUrl: "_pages"
+  siteurl: "http://beyondcare.dk"
   media: 'media'
   ignore:
     - index.md
@@ -24,12 +26,13 @@ prose:
     - /_includes
     - /_sass
   metadata:
-    - name: "layout"
-      field:
-        element: "select"
-        value: "default"
-        options:
-          - name: "Default"
-            value: "default"
-          - name: "Services"
-            value: "services"
+    _pages:
+      - name: "layout"
+        field:
+          element: "select"
+          value: "default"
+          options:
+            - name: "Default"
+              value: "default"
+            - name: "Services"
+              value: "services"
