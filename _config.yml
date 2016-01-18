@@ -1,12 +1,15 @@
 # Site settings
-title:
-email:
+title: Beyond Care
+email: frank@beyondcare.dk
+phone: "+45 2241 6614"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+# Other settings
+timezone: Europe/Copenhagen
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true

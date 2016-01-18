@@ -47,7 +47,7 @@ p {
 }
 
 .bg-dark {
-    background-color: $theme-dark;
+    background-color: $theme-dark-petrolium;
     color: white;
 }
 
@@ -112,17 +112,17 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            color: rgba($theme-primary, .7);
             &:hover,
             &:focus {
-                color: white;
+                color: $theme-primary;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: rgba($theme-primary, .7);
             &:hover {
-                color: white;
+                color: $theme-primary;
             }
         }
         &.affix {
@@ -348,4 +348,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-
