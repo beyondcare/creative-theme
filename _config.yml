@@ -13,3 +13,23 @@ timezone: Europe/Copenhagen
 markdown: kramdown
 kramdown:
   parse_block_html: true
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://beyondcare.dk'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    - name: "layout"
+      field:
+        element: "select"
+        value: "default"
+        options:
+          - name: "Default"
+            value: "default"
+          - name: "Services"
+            value: "services"
