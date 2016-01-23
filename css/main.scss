@@ -42,5 +42,6 @@ $theme-dark-petrolium: rgb(0, 77, 84);
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
-        "base"
+        "base",
+        "timeline"
 ;

@@ -3,7 +3,7 @@ layout: services
 title: Coaching
 ---
 
-# Coaching
+## Coaching
 
 Fra foråret 2016 tilbyder jeg professionel coaching inden for livsstil og virksomheder. Jeg er lige nu ved at uddanne mig til Life- og businesscoach hos det anerkendte Manning Inspire, og jeg glæder mig rigtig meget til at komme i gang med at hjælpe DIG med at blive den bedste version af dig, og til at hjælpe dig med at rydde nogle kedelige overbevisninger og mentale forhindringer af vejen, for at du kan nå lige præcis dine mål! Coaching er ikke terapi, men et effektivt værktøj, der er rettet mod nutiden og fremtidige mål. Jeg kan bl.a. hjælpe dig med:
 
