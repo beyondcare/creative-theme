@@ -26,3 +26,25 @@ kramdown:
 # Sass settings
 sass:
   style: compressed
+
+# Prose integration
+prose:
+  siteurl: "http://beyondcare.dk"
+  media: 'media'
+  ignore:
+    - index.html
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_sass
+  metadata:
+    _pages:
+      - name: "layout"
+        field:
+          element: "select"
+          value: "default"
+          options:
+            - name: "Default"
+              value: "default"
+            - name: "Services"
+              value: "services"
