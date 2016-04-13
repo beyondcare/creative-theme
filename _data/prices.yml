@@ -1,0 +1,51 @@
+- service: Massage 30 min
+  price: 225 kroner
+  tag: massage
+
+- service: Massage 45 min
+  price: 275 kroner
+  tag: massage
+
+- service: Massage 60 min</th>
+  price: 400 kroner
+  tag: massage
+
+- service: Massage 90 min
+  price: 550 kroner
+  tag: massage
+
+- service: Massage 90 min
+  price: 550 kroner
+  tag: massage
+
+- service: Kinesio- og sportstape
+  price: 50 kr/tapening
+  tag: massage
+
+- service: Akupunktur
+  price: 325 kroner/behandling
+  tag: massage
+
+- service: Coaching 1 session á 60 minutter
+  price: 650 kroner
+  tag: coaching
+
+- service: Coaching 3 session á 60 minutter
+  price: 1800 kroner
+  tag: coaching
+
+- service: Coaching 5 session á 60 minutter
+  price: 2800 kroner
+  tag: coaching
+
+- service: Coaching 10 session á 60 minutter
+  price: 5800 kroner
+  tag: coaching
+
+- service: Walk and talk - gåtur på 45 minutter
+  price: 400 kroner
+  tag: coaching
+
+- service: Erhvervscoaching
+  price: Ring for aftale
+  tag: coaching

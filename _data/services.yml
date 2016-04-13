@@ -1,0 +1,9 @@
+- service: Coaching
+  url: /coaching
+  icon: diamond
+  text: Tillidsskabende, troværdig og dedikeret life- og businesscoach, der hjælper dig med at nå dine mål. Jeg er din partner in succes.
+
+- service: Massage
+  url: /coaching
+  icon: heart
+  text: Erfaren og kompetent massør tilbyder forskellige former for massage. Herunder også muskeltests, tapening med bl.a. kinesiotape og sportstape, triggerpunktsterapi samt sportsakupunktur.

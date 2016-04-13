@@ -7,17 +7,13 @@
                 <p>Er du klar til at komme i kontakt, så skynd dig at ringe eller skrive, så vi kan finde ud af noget!</p>
             </div>
         </div>
-        <div class="col-lg-2 col-lg-offset-4 text-center">
-            <a href="mailto:{{ site.email }}">
-            <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p>{{ site.email }}</p>
+        {% for item in site.data.contact %}
+        <div class="col-lg-2 col-lg-offset-{{ item.offset }} text-center">
+            <a href="{{ item.href }}">
+            <i class="fa fa-{{ item.icon }} fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                <p>{{ item.text }}</p>
             </a>
         </div>
-        <div class="col-lg-2 col-lg-offset-0 text-center">
-            <a href="#">
-            <i class="fa fa-phone fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p>{{ site.phone }}</p>
-            </a>
-        </div>
+        {% endfor %}
     </div>
 </section>
