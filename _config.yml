@@ -11,7 +11,6 @@ timezone: Europe/Copenhagen
 exclude: [vendor]
 
 # Build settings
-markdown: redcarpet
 kramdown:
   input: GFM
   parse_block_html: true
