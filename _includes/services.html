@@ -9,20 +9,15 @@
     </div>
     <div class="container">
         <div class="row">
+            {% for item in site.data.services %}
             <div class="col-lg-6 col-md-6 text-center">
                 <div class="service-box">
-                    <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i>
-                    <h3>Målsætning og coaching</h3>
-                    <p class="text-muted">En erfaren og troværdig samarbejdspartner, der hjælper dig med at nå dine mål.</p>
+                    <i class="fa fa-4x fa-{{ item.icon }} wow bounceIn text-primary"></i>
+                    <h3><a href="{{ item.url }}">{{ item.service }}</a></h3>
+                    <p class="text-muted">{{ item.text }}</p>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 text-center">
-                <div class="service-box">
-                    <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".1s"></i>
-                    <h3>Behandling</h3>
-                    <p class="text-muted">Massage to tapening, hvor og når du har brug for det.</p>
-                </div>
-            </div>
+             {% endfor %}
         </div>
     </div>
 </section>

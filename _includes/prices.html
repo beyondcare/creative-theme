@@ -1,0 +1,23 @@
+<section>
+  <div class="container table-responsive">
+    <h2>Priser</h2>
+
+    <table class="table table-stribed table-hover">
+      <tbody>
+      {% for item in site.data.prices %}
+      {% if include.tag contains item.tag %}
+      <tr>
+        <th>{{ item.service }}</th>
+        <td>{{ item.price }}</td>
+      </tr>
+      {% endif %}
+      {% endfor %}
+      </tbody>
+      <tfoot>
+      <tr>
+        <td colspan="2" style="text-align: center">Alle priser er inkl. moms.</td>
+      </tr>
+      </tfoot>
+    </table>
+  </div>
+</section>
