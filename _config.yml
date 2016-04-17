@@ -15,3 +15,6 @@ kramdown:
   input: GFM
   parse_block_html: true
   remove_block_html_tags: true
+
+sass:
+  style: compressed
