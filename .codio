@@ -4,7 +4,7 @@
 // Run button configuration
   "commands": {
         "Node version": "node --version",
-        "Start Jekyll": "jekyll serve --host 0.0.0.0"
+        "Start Jekyll": "jekyll serve --host 0.0.0.0 --incremental"
   },
 
 // Preview button configuration
