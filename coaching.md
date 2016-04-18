@@ -22,4 +22,4 @@ Walk&Talk coaching – lad os sammen gå en tur gennem Dyrups flotte skov og nat
 
 Hvad ville det give dig at gå efter dine drømme?
 
-[Jeg har brug for erhvervscoaching](/erhvervscoaching)
+[Jeg har brug for erhvervscoaching]({{ site.baseurl }}erhvervscoaching)
