@@ -13,7 +13,7 @@
                         {% for item in site.data.timeline %}
                         <li class="{% cycle '', 'timeline-inverted' %}">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/timeline/{{ item.picture }}" alt="">
+                                <img class="img-circle img-responsive" src="img/timeline/{{ item.picture }}" alt="{{ item.headline }}">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
