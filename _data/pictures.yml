@@ -2,52 +2,52 @@
   category: Massage
   project-name: Professionel massage hjælper ganske enkelt.
   tag: massage
-  url: {{ site.baseurl }}massage
+  url: massage
 
 - picture: bc-6.jpg
   category: Tapening
   project-name: Brug for at blive tapet op? Kinesiotape har bevist effekt.
   tag: massage
-  url: {{ site.baseurl }}massage
+  url: massage
 
 - picture: bc-2.jpg
   category: Sportsakupunktur
   project-name: Evidensbaseret virkning! Sportsakupunktur er især velegnet til sportsskader, men kan bruges i mange flere sammenhænge.
   tag: massage
-  url: {{ site.baseurl }}massage
+  url: massage
 
 - picture: bc-3.jpg
   category: Livsstilscoaching
   project-name: Har du brug for at finde frem til det du virkelig vil?
   tag: coaching
-  url: {{ site.baseurl }}coaching
+  url: coaching
 
 - picture: bc-1.jpg
   category: Napoleon Hill
   project-name: ”Vent ikke – tidspunktet vil aldrig være perfekt”
   tag: coaching
-  url: {{ site.baseurl }}coaching
+  url: coaching
 
 - picture: bc-4.jpg
   category: Erhvervscoaching
   project-name: Kunne du tænke dig sparring på at blive en endnu bedre leder?
   tag: coaching
-  url: /erhvervscoaching
+  url: erhvervscoaching
 
 - picture: frank-2.jpg
   category: Massage
   project-name: Professionel massage hjælper ganske enkelt.
   tag: frank
-  url: #
+  url: massage
 
 - picture: frank-3.jpg
   category: Livsstilscoaching
   project-name: Har du brug for at finde frem til det du virkelig vil?
   tag: frank
-  url: #
+  url: coaching
 
 - picture: frank-4.jpg
   category: Erhvervscoaching
   project-name: Kunne du tænke dig sparring på at blive en endnu bedre leder?
   tag: frank
-  url: #
+  url: erhvervscoaching
