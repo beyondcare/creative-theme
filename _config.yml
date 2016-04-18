@@ -3,13 +3,18 @@ title: Beyond Care
 email: frank@beyondcare.dk
 phone: "+45 2241 6614"
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
 # Other settings
 timezone: Europe/Copenhagen
-exclude: ['vendor']
-include: ['_pages']
+exclude: [vendor]
+
+# Pages as collections
+collections:
+  pages:
+    output: true
+    permalink: /:path
 
 # Build settings
 kramdown:
@@ -17,5 +22,6 @@ kramdown:
   parse_block_html: true
   remove_block_html_tags: true
 
+# Sass settings
 sass:
   style: compressed
