@@ -373,3 +373,9 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
+
+tfoot {
+  td {
+    text-align: center;
+  }
+}
