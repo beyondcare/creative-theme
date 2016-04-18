@@ -8,7 +8,8 @@ url: "/" # the base hostname & protocol for your site
 
 # Other settings
 timezone: Europe/Copenhagen
-exclude: [vendor]
+exclude: ['vendor']
+include: ['_pages']
 
 # Build settings
 kramdown:
