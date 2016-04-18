@@ -30,13 +30,29 @@ sass:
 # Prose integration
 prose:
   siteurl: "http://beyondcare.dk"
-  media: 'media'
+  media: 'img'
   ignore:
-    - index.html
+    - .codio
+    - .gitignore
+    - .probo.yaml
+    - .sass-lint.yml
+    - .travis.yml
     - _config.yml
+    - favicon.ico
+    - Gemfile
+    - Gemfile.lock
+    - gulpfile.js
+    - index.html
+    - LICENCE
+    - package.json
+    - README.md
     - /_layouts
     - /_includes
     - /_sass
+    - /css
+    - /font-awesome
+    - /fonts
+    - /js
   metadata:
     _pages:
       - name: "layout"
