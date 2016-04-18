@@ -2,10 +2,12 @@
 var gulp = require('gulp');
 
 // Include plugins.
+var notify = require('gulp-notify');
 var sassLint = require('gulp-sass-lint');
 var jshint = require('gulp-jshint');
 var imagemin = require('gulp-imagemin');
 var pngcrush = require('imagemin-pngcrush');
+var autoprefixer = require('gulp-autoprefixer'),
 
 // SCSS Linting.
 gulp.task('scss-lint', function() {
