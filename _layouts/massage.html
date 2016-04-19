@@ -1,21 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-
-{% include head.html %}
-
-<body id="page-top">
-  {% include nav.html %}
-  {% include portfolio.html tag="massage" %}
-  <section id="content">
-    <div class="container">
-      {{ content }}
-    </div>
-  </section>
-  {% include aside.html %}
-  {% include prices.html tag="massage" %}
-  {% include company-agreement.html %}
-  {% include contact.html %}
-  {% include scripts.html %}
-</body>
-
-</html>
+---
+layout: default
+---
+{% include portfolio.html tag="massage" %}
+<section id="content">
+  <div class="container">
+    {{ content }}
+  </div>
+</section>
+{% include aside.html %}
+{% include prices.html tag="massage" %}
+{% include company-agreement.html %}
+{% include contact.html %}
