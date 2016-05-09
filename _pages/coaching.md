@@ -18,7 +18,7 @@ Har du brug for...
 
 Jeg både kan og vil være din partner i succes og vil se frem til et spændende, givende og handlingsorienteret samarbejde.
 
-Walk&Talk coaching – lad os sammen gå en tur gennem Dyrups flotte skov og natur langs åen med 2 store kopper kaffe og finde ud af, hvad du virkelig gerne vil, hvad du virkelig ønsker at opnå, hvad du har brug for lige nu. Er du i tvivl om coaching kan hjælpe dig, så vent ikke med at ringe og lad os mødes.
+Walk&Talk coaching – lad os sammen gå en tur gennem Odense SV's flotte skov og natur langs åen med 2 store kopper kaffe og finde ud af, hvad du virkelig gerne vil, hvad du virkelig ønsker at opnå, hvad du har brug for lige nu. Er du i tvivl om coaching kan hjælpe dig, så vent ikke med at ringe og lad os mødes.
 
 Hvad ville det give dig at gå efter dine drømme?
 
