@@ -5,6 +5,7 @@ phone: "+45 2241 6614"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+google_analytics_code: "UA-78953173-1"
 
 # Other settings
 timezone: Europe/Copenhagen
