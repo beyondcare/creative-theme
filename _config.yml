@@ -62,5 +62,9 @@ prose:
           options:
             - name: "Default"
               value: "default"
-            - name: "Services"
-              value: "services"
+            - name: "Coaching"
+              value: "coaching"
+            - name: "About"
+              value: "about"
+            - name: "Massage"
+              value: "massage"
