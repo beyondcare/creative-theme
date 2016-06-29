@@ -26,3 +26,45 @@ kramdown:
 # Sass settings
 sass:
   style: compressed
+
+# Prose integration
+prose:
+  siteurl: "http://beyondcare.dk"
+  media: 'img'
+  ignore:
+    - .codio
+    - .gitignore
+    - .probo.yaml
+    - .sass-lint.yml
+    - .travis.yml
+    - _config.yml
+    - favicon.ico
+    - Gemfile
+    - Gemfile.lock
+    - gulpfile.js
+    - index.html
+    - LICENCE
+    - package.json
+    - README.md
+    - /_layouts
+    - /_includes
+    - /_sass
+    - /css
+    - /font-awesome
+    - /fonts
+    - /js
+  metadata:
+    _pages:
+      - name: "layout"
+        field:
+          element: "select"
+          value: "default"
+          options:
+            - name: "Default"
+              value: "default"
+            - name: "Coaching"
+              value: "coaching"
+            - name: "About"
+              value: "about"
+            - name: "Massage"
+              value: "massage"
