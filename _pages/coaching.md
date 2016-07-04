@@ -10,7 +10,7 @@ published: true
 Har du brug for...
 
 - At skifte dit fokus og finde frem til hvad du virkelig vil? 
-- At overblik over og afklare dine værdier, visioner og mål?
+- At få overblik over og afklare dine værdier, visioner og mål?
 - At træffe (nye?) betydningsfulde beslutninger?
 - At strukturere dine mål og fastholde fokus på dem - uanset hvad der sker?
 - At erstatte dine hæmmende overbevisninger (de tanker og forestillinger, som bremser dig) med motiverende og resultatfremmende overbevisninger?
