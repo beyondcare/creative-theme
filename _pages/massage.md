@@ -35,6 +35,6 @@ Jeg vil gerne understrege, at tapening ikke kan stå alene, men altid som et sup
 
 ### Firmaaftaler og mobilmassage
 
-Jeg tilbyder firmaaftaler og kommer meget gerne ud til netop din virksomhed. Giv mig et kald, så finder vi sammen en aftale, der passer dit firma og medarbejdere. Jeg kommer med briks, lagen, olie/massagecreme – du skal bare medbringe et håndklæde og vand samt stille et lokale til rådighed.
+Jeg tilbyder firmaaftaler og kommer meget gerne ud til netop din virksomhed. Giv mig et kald, så finder vi sammen en aftale, der passer dit firma og dine medarbejdere. Jeg kommer med briks, lagen, olie/massagecreme – du skal bare medbringe et håndklæde og vand samt stille et lokale til rådighed.
 
 Jeg kommer også meget gerne hjem til dig privat – kontakt mig for nærmere aftale.
