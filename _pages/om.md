@@ -5,7 +5,7 @@ published: true
 permalin: /om
 ---
 
-## Om Beyond Care
+## Om BeyondCare
 
 Med stor passion for krop og sind, og hvordan hele vores organisme hænger sammen fysisk og mentalt, har jeg valgt at uddanne mig inden for begge retninger og har gennem mine erfaringer som massør og coach erhvervet mig stor viden og mange kompetencer, som jeg brænder for at dele med dig.
 
