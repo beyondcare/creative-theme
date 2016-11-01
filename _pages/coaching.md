@@ -10,7 +10,7 @@ published: true
 Har du brug for...
 
 - At skifte dit fokus og finde frem til hvad du virkelig vil? 
-- At få overblik over dine værdier, visioner og mål i livet? At afklare og måske ændre livsværdierne?
+- At få overblik over dine værdier, visioner og mål i livet? At afklare og måske ændre livsværdierne? Værdier som du enten bevidst eller ubevidst træffer beslutninger efter.
 - At træffe (nye?!) betydningsfulde beslutninger?
 - At strukturere dine mål og fastholde fokus på dem, uanset hvad der sker? Hos mig arbejder vi ikke med quick fix'es!
 - At erstatte dine hæmmende overbevisninger, dvs. de tanker og forestillinger, som bremser dig, med motiverende og resultatfremmende overbevisninger?
