@@ -10,12 +10,12 @@ permalink: /massage
 ### Professionel fysiurgisk massage
 
 Professionel fysiurgisk massage hjælper!
-Jeg har stor erfaring inden for bl.a. idrætsskader, eksempelvis, skinnebensbetændelse, golf-/tennisalbue, spændinger og spændingshovedpine, løber-/springerknæ, effektiv restituering af trætte muskler, ømhed/myoser og infiltrationer i bevægeapparatet. Overstiger dine behov mine kompetencer, vil jeg være behjælpelig med at få dig videre. Og hvorfor ikke også forebygge frem for at helbrede?
-Massage forbedrer blodcirkulationen, som transporterer næringsstoffer og ilt ud til kroppens celler. Samtidig føres affaldsstoffer med blodet væk fra cellerne. Massage sætter også skub i lymfesystemet, der spiller en afgørende rolle i kroppens udrensning af affaldsstoffer. Massage har også en positiv virkning på kroppens nervesystem. Det er derfor, at massage virker beroligende, afstressende og stimulerende. Book en tid og lad os sammen kigge på hvad du har brug for.
+Jeg har stor erfaring inden for bl.a. idrætsskader, eksempelvis skinnebensbetændelse, golf-/tennisalbue, spændinger og spændingshovedpine, løber-/springerknæ, effektiv restituering af trætte muskler, ømhed/myoser og infiltrationer i bevægeapparatet. Overstiger dine behov mine kompetencer, vil jeg være behjælpelig med at få dig videre. Og hvorfor ikke også forebygge frem for at helbrede?
+Massage forbedrer blodcirkulationen, som transporterer næringsstoffer og ilt ud til kroppens celler. Samtidig føres affaldsstoffer med blodet væk fra cellerne. Massage sætter også skub i lymfesystemet, der spiller en afgørende rolle i kroppens udrensning af affaldsstoffer. Massage har også en positiv virkning på kroppens nervesystem. Det er derfor, at massage virker beroligende, afstressende og stimulerende. Book en tid, og lad os sammen kigge på hvad du har brug for.
 
 ### Wellnessmassage
 
-Forkæl dig selv! Wellnessmassage er en blid form for massage, hvor mit fokus er, at du får en dejlig oplevelse. Nyd en grundig afslappende massage, imens dit sind får et tiltrængt break fra hverdagens stress og jag. Mange oplever en bedre kontakt til sig selv og kroppen samt en bedre nattesøvn. Både din puls og dine tankestrømme vil komme ned i gear. Jeg spiller afstressende og beroligende musik og behandlingen kan foregå nonverbalt, hvis du ønsker det.
+Forkæl dig selv! Wellnessmassage er en blid form for massage, hvor mit fokus er, at du får en dejlig oplevelse. Nyd en grundig afslappende massage, imens dit sind får et tiltrængt break fra hverdagens stress og jag. Mange oplever en bedre kontakt til sig selv og kroppen samt en bedre nattesøvn. Både din puls og dine tankestrømme vil komme ned i gear. Jeg spiller afstressende og beroligende musik og behandlingen kan foregå helt nonverbalt, hvis du ønsker det.
 
 ### Triggerpunktsterapi
 
@@ -24,13 +24,13 @@ Et triggerpunkt er et punkt i en muskel, der – når det er aktivt – kan vær
 
 ### Sportsakupunktur
 
-Evidensbaseret virkning! Sportsakupunktur er især velegnet til sportsskader, men kan bruges i mange flere sammenhænge. Sportsakupunktur er en kombination af muskulære triggerpunkter og reflekspunkter i det yderste fingerled. Behandlingsformen er attraktiv for alle der holder deres krop i form, ved eksempelvis fitness, løb, spinning/cykling, fodbold, tennis, håndbold, gymnastik og svømning m.m. Sportsakupunktur har en markant smertestillende effekt. Særdeles effektivt til at aktivere og fremskynde kroppens egen helingsproces på professionelle sportsfolk, der lever af deres sport samt til "almindelige" sene og muskel gener. Du får nåle i bilateralt og både i musklens triggerpunkter og i fingerens reflekspunkt.
+Evidensbaseret virkning! Sportsakupunktur er især velegnet til sportsskader, men kan bruges i mange flere sammenhænge. Sportsakupunktur er en kombination af muskulære triggerpunkter og reflekspunkter i det yderste fingerled. Behandlingsformen er attraktiv for alle der holder deres krop i form, ved eksempelvis fitness, løb, spinning/cykling, fodbold, tennis, håndbold, gymnastik og svømning m.m. Sportsakupunktur har en markant smertestillende effekt. Særdeles effektivt til at aktivere og fremskynde kroppens egen helingsproces på professionelle sportsfolk, der lever af deres sport samt til "almindelige" sene- og muskelgener. Du får nåle i bilateralt og både i musklens triggerpunkter og i fingerens reflekspunkt.
 
-Jeg bruger HEGU akupunkturnåle – kvalitetsnål efter japansk nåletype og hylstertraditioner. Designet og udarbejdet med skandinaviske akupunkturudøvere.
+Jeg bruger HEGU akupunkturnåle – en kvalitetsnål efter japansk nåletype og hylstertraditioner. Designet og udarbejdet med skandinaviske akupunkturudøvere.
 
 ### ... og jeg gør meget mere
 
-Herudover tilbyder jeg forskellige andre former for hjælp i mine behandlinger. En del af mine behandlinger kan fx være en muskeltest for at kunne lokalisere en evt. nedsat styrke i din muskulatur. Kinesiotape har bevist effekt! Vi ser det mere og mere, både på tv, i fitnesscentrene og ude i klubmiljøerne. Tapen kan bl.a. øge styrken, bedre proprioceptionen (stillings/ledsansen), nedsætte smerter, give bedre aktivering af muskulaturen og/eller hæmme overaktiv muskulatur. Jeg bruger også sportstape. Den hvide, uelastiske tape bliver typisk brugt i forbindelse med forstuvninger af led som beskyttelse mod yderligere forstuvninger. Den primære effekt er af at øge hudens sanseinput, så musklerne omkring det beskadigede led får mulighed for at reagere hurtigere og på den måde beskytte leddet mod skadelige yderstillinger.
+Herudover tilbyder jeg forskellige andre former for hjælp i mine behandlinger. En del af mine behandlinger kan fx være en muskeltest for at kunne lokalisere en evt. nedsat styrke i din muskulatur. Kinesiotape har bevist effekt! Vi ser det mere og mere, både på tv, i fitnesscentrene og ude i klubmiljøerne. Tapen kan bl.a. øge styrken, bedre proprioceptionen (stillings/ledsansen), nedsætte smerter, give bedre aktivering af muskulaturen og/eller hæmme overaktiv muskulatur. Jeg bruger også sportstape. Den hvide, uelastiske tape bliver typisk brugt i forbindelse med forstuvninger af led som beskyttelse mod yderligere forstuvninger. Den primære effekt er af, at øge hudens sanseinput, så musklerne omkring det beskadigede led får mulighed for at reagere hurtigere, og på den måde beskytte leddet mod skadelige yderstillinger.
 Jeg vil gerne understrege, at tapening ikke kan stå alene, men altid som et supplement til fx genoptræning.
 
 ### Firmaaftaler og mobilmassage
