@@ -10,7 +10,6 @@ published: true
 - Kunne du tænke dig sparring på at blive en endnu bedre leder?
 - Har du som leder alle medarbejdere med?
 - Vidste du, at det kun er ca. 30% af befolkningen, som føler passion for deres arbejde? Men der er faktisk 84% af de engagerede medarbejdere, som mener, de kan have en positiv effekt på kvaliteten af arbejdspladsens produktion!
-
 - Er du bevidst om, hvad der giver og dræner dig/dine medarbejdere/virksomhed for energi?
 - Kunne du tænke dig skærpet fokus på ansvar, ejerskab og motivation hos både dig, virksomheden og medarbejderne?
 - Hvordan ville løbende coaching forbedre virksomheden?
