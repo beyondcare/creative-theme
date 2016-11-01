@@ -18,7 +18,7 @@ published: true
 - Kunne I trænge til nye perspektiver, nye vinkler og fokus på fremtiden?
 - Har du et realistisk overblik over begrænsninger og muligheder?
 - Har medarbejderen brug for at finde, forbedre og fremhæve uudnyttet potentiale i arbejdsmæssig sammenhæng?
-- En virksomhed for mig er ofte at betragte som et team – et hold, der i fællesskab skal løse opgaver og sikrer mål og strategier for virksomheden. I min teamcoaching vil jeg skabe en teamånd og bevidstgøre teamet om alles styrker og udviklingspotentiale, således virksomheden bliver endnu stærkere.****
+- En virksomhed for mig er ofte at betragte som et team – et hold, der i fællesskab skal løse opgaver og sikre mål og strategier for virksomheden. I min teamcoaching vil jeg skabe en teamånd og bevidstgøre teamet om alles styrker og udviklingspotentiale, således virksomheden bliver endnu stærkere.**
 
 Jeg kommer ud til både private og offentlige virksomheder, ligesom jeg coacher via telefon og skype, hvis nødvendigt. Jeg kan varmt anbefale opfølgningscoaching i tiden efter et afsluttet forløb.
 
