@@ -9,11 +9,11 @@ published: true
 
 - Vidste du, at det kun er ca. 30% af befolkningen, som føler passion for deres arbejde? Men der er faktisk 84% af de engagerede medarbejdere, som mener, de kan have en positiv effekt på kvaliteten af arbejdspladsens produktion!
 - Er I i teamet bevidste om, hvad der giver og dræner både jer og virksomheden for energi?
+- Kan kommunikationen i virksomheden trænge til et realitetstjek og brush-up?
 - Kunne du tænke dig sparring på at blive en endnu bedre leder?
 - Har du som leder alle medarbejderne med?
 - Kunne du tænke dig skærpet fokus på ansvar, ejerskab og motivation hos både virksomheden, teamet og den enkelte medarbejder?
 - Hvordan ville løbende coaching forbedre virksomheden?
-- Kan kommunikationen i virksomheden trænge til et realitetstjek og brush-up?
 - Kunne I trænge til nye perspektiver, nye vinkler og fokus på fremtiden?
 - Har du et realistisk overblik over begrænsninger og muligheder?
 - Har medarbejderen brug for at finde, forbedre og fremhæve uudnyttet potentiale i arbejdsmæssig sammenhæng?
