@@ -13,9 +13,10 @@ Har du brug for...
 - At få overblik over dine værdier, visioner og mål i livet? At afklare og måske ændre livsværdierne? Værdier som du enten bevidst eller ubevidst træffer beslutninger efter.
 - At træffe (nye?!) betydningsfulde beslutninger?
 - At strukturere dine mål og fastholde fokus på dem, uanset hvad der sker? Hos mig arbejder vi ikke med quick fix'es! 
-- At erstatte dine hæmmende overbevisninger, dvs. de tanker og forestillinger, som bremser dig, med motiverende og resultatfremmende overbevisninger? 
-- At få skabt en overskuelig plan, der sikrer lige præcis DIN direkte vej til bedre og hurtigere resultater? Resultater som holder!
+- At erstatte dine hæmmende overbevisninger, dvs. de tanker og forestillinger, som bremser dig med motiverende og resultatfremmende overbevisninger? 
+- At få skabt en overskuelig plan, der sikrer lige præcis DIN direkte vej til bedre og hurtigere resultater? Resultater, som holder!
 - At få skabt et klart overblik over og bevidstgørelse om, hvor du er i livet lige nu? Det kan være i  parforholdet, karrieren, de sociale relationer, økonomien mm.?
+- 
 
 Jeg både kan og vil være din partner i succes og vil se frem til et spændende, givende og ikke mindst handlingsorienteret samarbejde. Jeg tilbyder altid 30 min. GRATIS session pr. tlf eller skype inden et samarbejde.
 
