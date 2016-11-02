@@ -8,9 +8,9 @@ published: true
 ## Erhvervscoaching
 
 - Vidste du, at det kun er ca. 30% af befolkningen, som føler passion for deres arbejde? Men der er faktisk 84% af de engagerede medarbejdere, som mener, de kan have en positiv effekt på kvaliteten af arbejdspladsens produktion!
+- Er I i teamet bevidste om, hvad der giver og dræner både jer og virksomheden for energi?
 - Kunne du tænke dig sparring på at blive en endnu bedre leder?
 - Har du som leder alle medarbejderne med?
-- Er I i teamet bevidste om, hvad der giver og dræner både jer og virksomheden for energi?
 - Kunne du tænke dig skærpet fokus på ansvar, ejerskab og motivation hos både virksomheden, teamet og den enkelte medarbejder?
 - Hvordan ville løbende coaching forbedre virksomheden?
 - Kan kommunikationen i virksomheden trænge til et realitetstjek og brush-up?
