@@ -20,6 +20,7 @@ Har du brug for...
 
 
 
+
 Jeg både kan og vil være din partner i succes og vil se frem til et spændende, givende og ikke mindst handlingsorienteret samarbejde. Jeg tilbyder altid 30 min. GRATIS session pr. tlf eller skype inden et samarbejde. Det er ligeledes en mulighed at sende mig en mail og lade vores samarbejdet starte den vej.
 
 Walk&Talk coaching – lad os sammen gå en tur gennem Odense Sv's flotte skov og natur langs åen med 2 store kopper kaffe og finde ud af, hvad du virkelig gerne vil, hvad du virkelig ønsker at opnå, hvad du har brug for lige nu. Er du i tvivl om coaching kan hjælpe dig, så vent ikke med at ringe og lad os mødes.
