@@ -6,9 +6,9 @@
 - icon: envelope-o
   href: mailto:frank@beyondcare.dk
   text: frank@beyondcare.dk
-  offset: 0
+  offset: 1
 
 - icon: phone
   href: #
   text: +45 2241 6614
-  offset: 0
+  offset: 1
