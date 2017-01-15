@@ -1,3 +1,8 @@
+- icon: facebook
+  href: https://www.facebook.com/frankknudsenbeyondcare/
+  text: BeyondCare
+  offset: 6
+
 - icon: envelope-o
   href: mailto:frank@beyondcare.dk
   text: frank@beyondcare.dk
