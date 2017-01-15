@@ -1,7 +1,7 @@
 - icon: facebook
   href: https://www.facebook.com/frankknudsenbeyondcare/
   text: BeyondCare
-  offset: 0
+  offset: 1
 
 - icon: envelope-o
   href: mailto:frank@beyondcare.dk
@@ -11,4 +11,4 @@
 - icon: phone
   href: #
   text: +45 2241 6614
-  offset: 1
+  offset: 0
