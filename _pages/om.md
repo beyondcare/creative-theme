@@ -17,7 +17,7 @@ For at optimere mine behandlingstilbud til mine klienter holder jeg mig løbende
 
 ## Adresse
 
-BeyondCare
-v/ Frank Knudsen
-Ahornvej 24
+BeyondCare  
+v/ Frank Knudsen  
+Ahornvej 24  
 5250 Odense Sv
