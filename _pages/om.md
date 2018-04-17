@@ -14,3 +14,10 @@ Som udgangspunkt lyver kroppens signaler aldrig, og jeg vil med mine samtaler og
 Din krop – dit sind – dit mål – dit fokus er helt essentielt.
 
 For at optimere mine behandlingstilbud til mine klienter holder jeg mig løbende opdateret.
+
+## Adresse
+
+BeyondCare
+v/ Frank Knudsen
+Ahornvej 24
+5250 Odense Sv
