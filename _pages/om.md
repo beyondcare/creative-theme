@@ -2,7 +2,7 @@
 layout: about
 title: Om
 published: true
-permalin: /om
+permalink: /om
 ---
 
 ## Om BeyondCare
