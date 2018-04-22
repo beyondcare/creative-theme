@@ -36,10 +36,17 @@ portfolio:
     category: Erhvervscoaching
     name: Har din virksomhed, dit team eller du som leder brug for at blive endnu skarpere på det I allerede kan?
     url: /erhvervscoaching
+header:
+  image: /img/header.jpg
+  logo: /img/logo.png
+  # heading: "BeyondCare"
+  text: "LIVSSTILS- OG ERHVERVSCOACHING - er du lige præcis dér, hvor du gerne vil være i livet og i karrieren? SPORTSTERAPI - massage, akupunktur, tests og tapening. Mit mål er at hjælpe dig i mål!"
+  cta_url: "#about"
+  cta_button: "Se hvad jeg tilbyder"
 ---
 {% include header.html %}
 {% include call-to-action.html %}
-{% include services.html services=site.services heading="BeyondCare tilbyder" %}
+{% include services.html services=site.data.services heading="BeyondCare tilbyder" %}
 {% include portfolio.html tag="massage coaching" %}
 {% include aside.html %}
 {% include contact.html %}
