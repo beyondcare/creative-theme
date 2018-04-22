@@ -3,6 +3,24 @@ layout: massage
 title: Massage
 published: true
 permalink: /massage
+aside:
+  heading: "Klar til at ændre dit liv?"
+  text: "Hvilken enkelt overbevisning ville forbedre kvaliteten af dit liv, hvis du virkelig integrerede den?"
+  cta_url: "#contact"
+  cta_text: "Kontakt mig nu!"
+portfolio:
+  - picture: /img/portfolio/bc-5.jpg
+    category: Massage
+    name: Professionel massage hjælper ganske enkelt.
+    url: /massage
+  - picture: /img/portfolio/bc-6.jpg
+    category: Tapening
+    name: Brug for at blive tapet op? Kinesiotape har bevist effekt.
+    url: /massage
+  - picture: /img/portfolio/bc-2.jpg
+    category: Sportsakupunktur
+    name: Evidensbaseret virkning! Sportsakupunktur er især velegnet til sportsskader, men kan bruges i mange flere sammenhænge.
+    url: /massage
 ---
 
 ## Massage

@@ -2,6 +2,7 @@
 remote_theme: lsolesen/creative-theme-jekyll
 
 # Site settings
+locale: da
 title: Beyond Care
 email: frank@beyondcare.dk
 phone: "+45 2241 6614"
