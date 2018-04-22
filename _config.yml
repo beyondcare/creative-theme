@@ -1,5 +1,6 @@
 # Theme settings
 remote_theme: lsolesen/creative-theme-jekyll
+creative_theme_skin: beyond
 
 # Site settings
 locale: da
