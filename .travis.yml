@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.1
+  - 2.2
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --assume-extension --only-4xx --check-favicon --check-html
