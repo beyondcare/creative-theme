@@ -1,4 +1,8 @@
 language: ruby
+branches:
+  only:
+  - gh-pages
+  - /.*/
 rvm:
   - 2.1
 script:
