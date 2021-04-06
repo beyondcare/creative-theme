@@ -1,9 +1,9 @@
 - service: Massage 30 min
-  price: 225 kroner
+  price: 240 kroner
   tag: massage
 
 - service: Massage 45 min
-  price: 275 kroner
+  price: 310 kroner
   tag: massage
 
 - service: Massage 60 min
