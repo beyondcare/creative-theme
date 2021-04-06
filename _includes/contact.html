@@ -7,7 +7,7 @@
                 <p>Er du klar til at komme i kontakt, så skynd dig at ringe eller skrive, så vi kan finde ud af noget!</p>
             </div>
         </div>
-        {% for item in site.data.contact %}
+        {% for item in site.data.settings.contact %}
         <div class="col-lg-3 text-center">
             <a href="{{ item.href }}">
             <i class="fa fa-{{ item.icon }} fa-3x wow bounceIn" data-wow-delay=".1s"></i>

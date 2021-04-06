@@ -1,0 +1,132 @@
+timeline:
+  - picture: timeline-4.jpg
+    year: 2006
+    headline: Uddannet professionel lægeeksamineret fysiurgisk massør ved Idrætsklinikkens Kursuscenter
+    comment: En faglig kompetent og givende uddannelse, som straks blev en del af min hverdag og senere arbejdsliv.
+  - picture: timeline-2.jpg
+    year: 2007-2008
+    headline: Instruktør på Club La Santa
+    comment: Her arbejdede jeg som mulitisport instructor med undervisning primært i fitness og tennis. En helt unik tid med uforglemmelige oplevelser – sportsligt såvel som personligt.
+  - picture: timeline-5.jpg
+    year: 2008
+    headline: Lærer på Vejle Idrætsefterskole
+    comment: Her arbejder jeg i dag, Danmarks fedeste efterskole hvor både dit idrætstalent, det boglige og det sociale liv er i fokus. Her har jeg samarbejde med skolens fysioterapeut og underviser i dansk, tysk og engelsk i 10.klasse.
+  - picture: timeline-6.jpg
+    year: 2008
+    headline: Instruktør og massør i Fitness DK
+    comment: PT som underviser i spinning og TRX. Har tidligere haft hold i motionsboksning, stram op samt fungeret som træningsvejleder.
+  - picture: timeline-1.jpg
+    year: 2016
+    headline: Uddannet og certificeret life- og businesscoach hos Manning Inspire
+    comment: Accepter eller reager, at sidde mellem to stole er mest smertefuldt. Alle mennesker har en historie, men vi ER ikke vores historie - du har altid et valg!
+  - picture: timeline-3.jpg
+    year: 2016
+    headline: Up-to-date
+    comment: Jeg holder hele tiden øjne og ører åbne for at være helt skarp på udviklingen og nye tiltag, både inden for behandlingens og coachingens verden.
+services:
+  - service: Coaching
+    url: coaching
+    icon: 
+    text: Tillidsskabende, troværdig og utrolig dedikeret life- og businesscoach, der hjælper dig med at nå dine mål. Jeg er med dig hele vejen.
+  - service: Massage
+    url: massage
+    icon: 
+    text: Erfaren og kompetent massør tilbyder forskellige former for massage. Herunder også muskeltests, tapening med bl.a. kinesiotape og sportstape, triggerpunktsterapi samt sportsakupunktur.
+prices:
+  - service: Er du i tvivl om, hvad coaching kan gøre for dig eller hvilken behandling ift. din skade der er den rigtige, så kontakt mig gerne. Jeg tilbyder alle mine klienter 30 min. gratis samtale inden et forhåbentligt samarbejde.
+  - service: Massage 30 min
+    price: 240 kroner
+    tag: massage
+  - service: Massage 45 min
+    price: 310 kroner
+    tag: massage
+  - service: Massage 60 min
+    price: 400 kroner
+    tag: massage
+  - service: Massage 90 min
+    price: 550 kroner
+    tag: massage
+  - service: Kinesio- og sportstape
+    price: 50 kr/tapening
+    tag: massage
+  - service: Akupunktur
+    price: 325 kroner/behandling
+    tag: massage
+  - service: Coaching 1 session á 60 minutter
+    price: 650 kroner
+    tag: coaching
+  - service: Coaching 3 sessions á 60 minutter
+    price: 1800 kroner
+    tag: coaching
+  - service: Coaching 5 sessions á 60 minutter
+    price: 2800 kroner
+    tag: coaching
+  - service: Coaching 10 sessions á 60 minutter
+    price: 5500 kroner
+    tag: coaching
+  - service: Walk and talk - fortrolig gåtur i flotte Odense Sv
+    price: 400 kroner
+    tag: coaching
+  - service: Erhvervscoaching
+    price: Ring for aftale
+    tag: coaching
+  - service: Alle priser er inkl. moms.
+contact:
+  - icon: facebook
+    href: https://www.facebook.com/frankknudsenbeyondcare/
+    text: BeyondCare
+  - icon: instagram
+    href: https://www.instagram.com/coachfrankknudsen/
+    text: coachfrankknudsen
+  - icon: envelope-o
+    href: mailto:frank@beyondcare.dk
+    text: frank@beyondcare.dk
+  - icon: phone
+    href: "tel:+4522416614"
+    text: +45 2241 6614
+pictures:
+  - picture: bc-5.jpg
+    category: Massage
+    project-name: Professionel massage hjælper ganske enkelt.
+    tag: massage
+    url: massage
+  - picture: bc-6.jpg
+    category: Tapening
+    project-name: Brug for at blive tapet op? Kinesiotape har bevist effekt.
+    tag: massage
+    url: massage
+  - picture: bc-2.jpg
+    category: Sportsakupunktur
+    project-name: Evidensbaseret virkning! Sportsakupunktur er især velegnet til sportsskader, men kan bruges i mange flere sammenhænge.
+    tag: massage
+    url: massage
+  - picture: bc-3.jpg
+    category: Livsstilscoaching
+    project-name: Har du brug for at finde frem til det du virkelig vil?
+    tag: coaching
+    url: coaching
+  - picture: bc-1.jpg
+    category: Napoleon Hill
+    project-name: ”Vent ikke – tidspunktet vil aldrig være perfekt”
+    tag: coaching
+    url: coaching
+  - picture: bc-4.jpg
+    category: Erhvervscoaching
+    project-name: Har din virksomhed, dit team eller du som leder brug for at blive endnu skarpere på det I allerede kan?
+    tag: coaching
+    url: erhvervscoaching
+  - picture: frank-2.jpg
+    category: Massage
+    project-name: Professionel massage hjælper ganske enkelt.
+    tag: frank
+    url: massage
+  - picture: frank-3.jpg
+    category: Livsstilscoaching
+    project-name: Har du brug for hjælp til at finde vejen frem til du virkelig vil?
+    tag: frank
+    url: coaching
+  - picture: frank-4.jpg
+    category: Erhvervscoaching
+    project-name: Har din virksomhed, dit team eller du som leder brug for at blive endnu skarpere på det I allerede kan?
+    tag: frank
+    url: erhvervscoaching
