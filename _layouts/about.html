@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-{% include portfolio.html tag="frank" %}
+{% include portfolio.html %}
 <section id="content">
   <div class="container">
     {{ content }}
   </div>
 </section>
 {% include timeline.html %}
-{% include services.html %}
+{% include services.html services=site.data.services heading="BeyondCare tilbyder" %}
 {% include call-to-action.html %}
 {% include contact.html %}

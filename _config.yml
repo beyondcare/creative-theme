@@ -1,11 +1,21 @@
+# Theme settings
+remote_theme: lsolesen/creative-theme-jekyll
+creative_theme_skin: beyond
+
 # Site settings
+locale: da
 title: Beyond Care
 email: frank@beyondcare.dk
 phone: "+45 2241 6614"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-google_analytics_code: "UA-78953173-1"
+
+# Analytics
+analytics:
+  provider               : "google-universal" # false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-78953173-1"
 
 # Other settings
 timezone: Europe/Copenhagen

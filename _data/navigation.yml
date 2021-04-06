@@ -1,0 +1,9 @@
+main:
+  - title: "Om"
+    url: "/om"
+  - title: "Coaching"
+    url: "/coaching"
+  - title: "Massage"
+    url: "/massage"
+  - title: "Kontakt"
+    url: "#contact"

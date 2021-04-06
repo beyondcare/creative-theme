@@ -3,6 +3,22 @@ layout: coaching
 title: Coaching
 permalink: /coaching
 published: true
+aside:
+  heading: "Klar til at ændre dit liv?"
+  text: "Hvilken enkelt overbevisning ville forbedre kvaliteten af dit liv, hvis du virkelig integrerede den?"
+  cta_url: "#contact"
+  cta_text: "Kontakt mig nu!"
+portfolio:
+  - picture: /img/portfolio/bc-3.jpg
+    category: Livsstilscoaching
+    name: Har du brug for at finde frem til det du virkelig vil?
+  - picture: /img/portfolio/bc-1.jpg
+    category: Napoleon Hill
+    name: "Vent ikke – tidspunktet vil aldrig være perfekt"
+  - picture: /img/portfolio/bc-4.jpg
+    category: Erhvervscoaching
+    name: Har din virksomhed, dit team eller du som leder brug for at blive endnu skarpere på det I allerede kan?
+    url: /erhvervscoaching
 ---
 
 ## Livsstilscoaching
