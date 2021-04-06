@@ -56,6 +56,7 @@ collections:
             label_singular: "Pris"
             name: prices
             widget: list
+            summary: "{{service}} - {{price}}"
             fields:
               - {label: "Service", name: service, widget: string}
               - {label: "Pris", name: price, widget: string}
