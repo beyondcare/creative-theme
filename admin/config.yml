@@ -5,15 +5,15 @@ backend:
   repo: beyondcare/beyondcare-dk-creative-theme
   branch: gh-pages # Branch to update (optional; defaults to master)
   api_root: https://api.github.com
-  site_domain: beyondcare.netlify.app
+  site_domain: beyondcaredk.netlify.app
   base_url: https://api.netlify.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
 
 media_folder: "img/uploads" # Media files will be stored in the repo under images/uploads
 
-site_url: https://www.beyondcare.dk
-display_url: https://www.beyondcare.dk
+site_url: https://beyondcare.dk
+display_url: https://beyondcare.dk
 logo_url: http://beyondcare.dk/img/logo.png
 
 show_preview_links: false
