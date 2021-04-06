@@ -70,19 +70,20 @@ prices:
   - service: Erhvervscoaching
     price: Ring for aftale
     tag: coaching
-  - service: Alle priser er inkl. moms.contact:
-- icon: facebook
-  href: https://www.facebook.com/frankknudsenbeyondcare/
-  text: BeyondCare
-- icon: instagram
-  href: https://www.instagram.com/coachfrankknudsen/
-  text: coachfrankknudsen
-- icon: envelope-o
-  href: mailto:frank@beyondcare.dk
-  text: frank@beyondcare.dk
-- icon: phone
-  href: "tel:+4522416614"
-  text: +45 2241 6614
+  - service: Alle priser er inkl. moms.
+contact:
+  - icon: facebook
+    href: https://www.facebook.com/frankknudsenbeyondcare/
+    text: BeyondCare
+  - icon: instagram
+    href: https://www.instagram.com/coachfrankknudsen/
+    text: coachfrankknudsen
+  - icon: envelope-o
+    href: mailto:frank@beyondcare.dk
+    text: frank@beyondcare.dk
+  - icon: phone
+    href: "tel:+4522416614"
+    text: +45 2241 6614
 pictures:
   - picture: bc-5.jpg
     category: Massage
