@@ -15,7 +15,7 @@ media_folder: "assets/images/uploads" # Media files will be stored in the repo u
 
 site_url: https://www.beyondcare.dk
 display_url: https://www.beyondcare.dk
-logo_url: https://www.beyondcare.dk/android-chrome-192x192.png
+logo_url: http://beyondcare.dk/img/logo.png
 
 show_preview_links: false
 
