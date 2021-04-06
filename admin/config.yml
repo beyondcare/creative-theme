@@ -1,0 +1,63 @@
+name: beyondcare
+
+backend:
+  name: github
+  repo: beyondcare/beyondcare-dk-creative-theme
+  branch: gh-pages # Branch to update (optional; defaults to master)
+  api_root: https://api.github.com
+  site_domain: beyondcare.netlify.app
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+  cms_label_prefix: netlify-cms/
+  open_authoring: true
+
+media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
+
+site_url: https://www.beyondcare.dk
+display_url: https://www.beyondcare.dk
+logo_url: https://www.beyondcare.dk/android-chrome-192x192.png
+
+show_preview_links: false
+
+editor:
+  preview: false
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Sider" # Used in the UI
+    label_singular: "Side"
+    folder: "_pages/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Layout", name: "layout", widget: "select", options: ["coaching", "massage", "about"], default: "coaching"}
+  - label: "Site options"
+    name: "settings"
+    editor:
+      preview: false
+    files:
+      - label: "Forsiden"
+        name: "index"
+        file: "index.html"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "select", options: ["coaching", "massage", "about"], default: "coaching"}
+      - label: "Navigation Menu"
+        name: nav
+        file: "_data/settings.yml"
+        fields:
+          - label: "Priser"
+            label_singular: "Pris"
+            name: prices
+            widget: list
+            fields:
+              - {label: "Service", name: service, widget: string}
+              - {label: "Pris", name: price, widget: string}
+              - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage"], default: ""}
