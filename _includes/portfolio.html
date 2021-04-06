@@ -1,7 +1,7 @@
 <section class="no-padding" id="portfolio">
     <div class="container-fluid">
         <div class="row no-gutter">
-            {% for picture in site.data.pictures %}
+            {% for picture in site.data.settings.pictures %}
             {% if include.tag contains picture.tag %}
             <div class="col-lg-4 col-sm-6">
                 <a href="{{ site.baseurl }}{{ picture.url }}" class="portfolio-box">
