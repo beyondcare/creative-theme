@@ -4,3 +4,5 @@ node_modules
 .vagrant
 Gemfile.lock
 .jekyll-metadata
+vendor
+.bundle
